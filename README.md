@@ -1,4 +1,4 @@
-# Project: Employee Data Processing for Analysis
+# Project: Employee Data Pre-processing for Analysis
  Objective: To consolidate and prepare employee data from multiple Excel files for analysis in Tableau.
 ## Process:
  * Data Acquisition:
@@ -13,6 +13,7 @@
      * Transform data into a suitable format for Tableau analysis.
      * Handle any inconsistant data.
      * Create any calculated fields, if needed.
+     * Utilize concepts like joins, unions and relationships to combine multiple data sources into one single source for enhanced analysis.
  * Data Consolidation:
    * Created a single, consolidated dataset containing:
      * Employee IDs
