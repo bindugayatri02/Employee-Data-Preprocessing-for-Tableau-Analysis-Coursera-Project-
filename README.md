@@ -11,23 +11,26 @@
      * Clean and standardize data within each Excel file.
      * Merge or join the data from the three Excel files based on common identifiers (e.g., employee IDs).
      * Transform data into a suitable format for Tableau analysis.
-     * Handle missing values, and any inconsistant data.
+     * Handle any inconsistant data.
      * Create any calculated fields, if needed.
  * Data Consolidation:
    * Created a single, consolidated dataset containing:
      * Employee IDs
      * Employee names
      * Hire dates
-     * Travel survey responses
+     * Country
+     * State
+     * Zip Code
      * Other relevant employee information.
  * Data Output:
    * Saved the processed and consolidated dataset in a format compatible with Tableau. 
  * Data Storage:
    * The original source files and the resulting processed data have been attached.
 ## Key Data Elements:
- * Employee IDs
- * Employee names
- * Country
- * Year of Data
- * Travel survey responses
- * Other employee related information
+* Employee IDs
+* Country
+* State
+* Zip Code
+* Employee names
+* Travel survey responses
+* Other employee related information
