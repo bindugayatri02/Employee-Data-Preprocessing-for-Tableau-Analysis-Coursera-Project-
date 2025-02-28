@@ -35,3 +35,5 @@
 * Employee names
 * Travel survey responses
 * Other employee related information
+## Course Information  
+This project was completed as part of the *Introduction to Tableau* course on Coursera.
